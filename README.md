@@ -1,4 +1,4 @@
-# Barba.js with GreenSock
+# Barba.js with GreenSock like nucle | Credits: Ihatetomatoes
 
 ![Barba.js and GSAP](../assets/img_barba-js-gsap.png)
 
